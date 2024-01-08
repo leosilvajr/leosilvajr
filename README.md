@@ -1,7 +1,7 @@
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leosilvajr&theme=radical&mode=weekly" />
+<div style="text-align: center; margin-bottom: 100px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=leosilvajr&theme=radical&mode=weekly" style="width: 55%;" />
+</div>
 
- </div>
  
  &nbsp;
  &nbsp;
