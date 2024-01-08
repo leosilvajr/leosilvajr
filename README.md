@@ -1,7 +1,5 @@
 # Hi, I am Leonardo ! 
 
-<p align = "justify">Developer, coffee lover and Dotnet fan</p>
-
 <div>
 <a href="https://github.com/leosilvajr">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosilvajr&layout=compact&langs_count=7&theme=github_dark"/>
