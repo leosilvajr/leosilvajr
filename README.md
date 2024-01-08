@@ -1,6 +1,12 @@
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leosilvajr&theme=radical&mode=weekly" />
- </div>
+# Hi, I am Leonardo ! 
+
+<p align = "justify">Developer, coffee lover and Dotnet fan</p>
+
+<div>
+<a href="https://github.com/leosilvajr">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosilvajr&layout=compact&langs_count=7&theme=github_dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leosilvajr&show_icons=true&theme=github_dark" alt="leosilvajr" />
+</div>
  
  &nbsp;
  &nbsp;
