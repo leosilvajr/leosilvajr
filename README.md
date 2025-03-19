@@ -1,4 +1,4 @@
-# Hi, I am Leonardo ! 
+# Hi, I am Leonardo
 
 <div>
 <a href="https://github.com/leosilvajr">
